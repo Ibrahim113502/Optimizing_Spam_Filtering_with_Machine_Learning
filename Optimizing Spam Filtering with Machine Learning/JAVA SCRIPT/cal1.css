@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+    width: 19%;
+    border: 3px solid green;
+    padding: 10px;
+    border-radius: 12%;
+}
+.iB1{
+    width: 238px;
+    margin-top: 10px;
+}
+.container{
+    align-items: center;
+}
+.Calculator{
+    align-self: center;
+}
+
+.button {
+    margin: 5px;
+    width: 50px;
+    padding: 5px;
+    border-radius: 75%;
+}
+
+.deletebutton {
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 75%;
+}
+
+.buttonoperator {
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 75%;
+}
+.equalbutton{
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 75%;
+}
